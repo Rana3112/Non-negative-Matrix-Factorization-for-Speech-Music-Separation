@@ -27,10 +27,10 @@ This approach enables effective separation of speech and music in mixed audio si
 | File | Description |
 |------|--------------|
 | `nmf4_wiener.py` | Main Python implementation for NMF-based separation |
-| `nmf_project_report.pdf` | Detailed report explaining theory, code, and results |
-| `Non_negative_matrix_factorization_for_sp.pdf` | Original reference research paper |
+| `nmf_project_report (2).pdf` | Detailed report explaining theory, code, and results |
+| `` | Original reference research paper |
 | `data/` | Folder containing sample speech, music, and mixture audio files |
-| `output/` | Folder where separated results are saved |
+| `results/` | Folder where separated results are saved |
 
 ---
 
